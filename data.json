@@ -181,7 +181,7 @@
   "button_background": "#ffba84",
   "button_text_color": "#1c1a30",
   "text_color": "#ffffff",
-  "color_highlight_text": "#ffffff",
+  "color_highlight_text": "#ffba84",
   "color_main_btn_text": "#1c1a30",
   "cta_background": "#ffba84",
   "logo": {
@@ -362,9 +362,9 @@
       "question": "Sind alle Spiele jederzeit verfügbar?"
     }
   ],
-  "_generated_at": "2026-10-14T14:10:14.209Z",
+  "_generated_at": "2026-10-14T14:11:30.163Z",
   "_version": "1.0.0",
   "content_alt": "Winoly Casino registrations",
-  "_last_deploy": "2026-10-14T14:10:14.839Z",
-  "_deploy_trigger": "dyyauq"
+  "_last_deploy": "2026-10-14T14:11:30.867Z",
+  "_deploy_trigger": "ngl9okb"
 }

@@ -5,7 +5,7 @@
   "url": "winoly-de.de",
   "template": "tupchiy",
   "language_code": "de-AT",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -362,9 +362,9 @@
       "question": "Sind alle Spiele jederzeit verfügbar?"
     }
   ],
-  "_generated_at": "2026-10-14T14:11:30.163Z",
+  "_generated_at": "2026-10-15T06:55:20.798Z",
   "_version": "1.0.0",
   "content_alt": "Winoly Casino registrations",
-  "_last_deploy": "2026-10-14T14:11:30.867Z",
-  "_deploy_trigger": "ngl9okb"
+  "_last_deploy": "2026-10-15T06:55:21.416Z",
+  "_deploy_trigger": "6xbn4a"
 }
